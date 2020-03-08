@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T08:23:18.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ZSUJUCloRN_t1KhEfsU8" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T09:11:56.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="l1cFpjC6zpCDeXkdHTX9" version="12.8.1" type="github">
   <diagram id="HaypddCMn4GJKSfDNTMn" name="第 1 页">
     <mxGraphModel dx="2170" dy="4727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -933,12 +933,6 @@
         <mxCell id="_OH5a7OBzPJKyX3IZHtf-74" value="&lt;div style=&quot;color: rgb(238 , 255 , 255) ; background-color: rgb(38 , 50 , 56) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px ; white-space: pre&quot;&gt;&lt;span style=&quot;color: #82aaff&quot;&gt;resetSchedulerState&lt;/span&gt;&lt;span style=&quot;color: #f07178&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="-1350" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_OH5a7OBzPJKyX3IZHtf-76" value="" style="endArrow=classic;html=1;exitX=1.052;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.048;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_OH5a7OBzPJKyX3IZHtf-49" target="_OH5a7OBzPJKyX3IZHtf-74">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="-1320" as="sourcePoint" />
-            <mxPoint x="1090" y="-1370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_OH5a7OBzPJKyX3IZHtf-77" value="&lt;div style=&quot;color: rgb(238 , 255 , 255) ; background-color: rgb(38 , 50 , 56) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px ; white-space: pre&quot;&gt;&lt;div style=&quot;line-height: 19px&quot;&gt;&lt;span style=&quot;color: #82aaff&quot;&gt;callActivatedHooks&lt;/span&gt;&lt;span style=&quot;color: #f07178&quot;&gt;(&lt;/span&gt;activatedQueue&lt;span style=&quot;color: #f07178&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="-1290" width="280" height="20" as="geometry" />
         </mxCell>
@@ -968,6 +962,15 @@
             <mxPoint x="1030" y="-1100" as="sourcePoint" />
             <mxPoint x="1080" y="-1150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_OH5a7OBzPJKyX3IZHtf-84" value="" style="endArrow=classic;html=1;exitX=0.989;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.072;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_OH5a7OBzPJKyX3IZHtf-69" target="_OH5a7OBzPJKyX3IZHtf-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="-1310" as="sourcePoint" />
+            <mxPoint x="1070" y="-1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OH5a7OBzPJKyX3IZHtf-85" value="&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; white-space: pre ; background-color: rgb(38 , 50 , 56) ; color: rgb(137 , 221 , 255)&quot;&gt;!this.&lt;/span&gt;&lt;span style=&quot;color: rgb(238 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; white-space: pre ; background-color: rgb(38 , 50 , 56)&quot;&gt;sync&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-1383" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
