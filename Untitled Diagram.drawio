@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T03:34:00.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="HeqbhtBCg7liEY2YtI5h" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T03:48:47.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="-Wp79rvizti__L04BanL" version="13.6.2" type="github">
   <diagram id="wmyFTfAndpe8EUMg5puC" name="Page-1">
-    <mxGraphModel dx="1908" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3258" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g9awD4k1l3ApskGEUnB0-39" value="shouldUpdataComponent" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="200" width="187" height="80" as="geometry" />
+          <mxGeometry x="-593.5" y="200" width="187" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g9awD4k1l3ApskGEUnB0-40" value="update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-558" y="100" width="120" height="60" as="geometry" />
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="g9awD4k1l3ApskGEUnB0-51" value="dom.empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g9awD4k1l3ApskGEUnB0-55" value="construct" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g9awD4k1l3ApskGEUnB0-56" value="props&lt;br&gt;currentElement&lt;br&gt;peddingstate&lt;br&gt;renderedComponent&lt;br&gt;renderedNode&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
